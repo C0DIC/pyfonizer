@@ -83,7 +83,6 @@ class Organizer:
                 self.all_move(self.audio, self.audio_path)
             
         if len(self.images):
-            print(Path(self.path_name + self.images_path))
             if (Path(self.path_name + self.images_path).exists()):
                 self.all_move(self.images, self.images_path)
             else:
