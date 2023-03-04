@@ -19,3 +19,18 @@ Windows
 ``` text
 python pyfonizer.py [path to directory]
 ```
+
+## Install
+
+``` text
+git clone https://github.com/C0DIC/pyfonizer
+cd pyfonizer
+```
+
+[Usage](#usage)
+
+## Examples
+
+```text
+python3 pyfonizer.py ~/Downloads
+```
