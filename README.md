@@ -31,6 +31,7 @@ cd pyfonizer
 
 ## Examples
 
-```text
-python3 pyfonizer.py ~/Downloads
+``` console
+$ chmod +x pyfonizer.py
+$ ./pyfonizer.py ~/Downloads
 ```
